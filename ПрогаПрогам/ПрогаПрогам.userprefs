@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Game.cs">
+    <Files>
+      <File FileName="Assets\scripts\EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\HealthScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MoveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\RedShoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\RedBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ShotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\WeaponScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\UnityChannel\XiaomiSupport\Editor\AppStoreSettingsEditor.cs" Line="36" Column="18" />
+      <File FileName="Assets\scripts\PurchaseManager.cs" Line="135" Column="2" />
+      <File FileName="Assets\scripts\Game.cs" Line="30" Column="3" />
+      <File FileName="Assets\Plugins\UnityChannel\XiaomiSupport\Editor\AppStoreOnboardApi.cs" Line="46" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="ПрогаПрогам" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
