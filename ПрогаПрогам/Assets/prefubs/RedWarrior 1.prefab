@@ -43,6 +43,7 @@ GameObject:
   - component: {fileID: 114117186697126004}
   - component: {fileID: 114704182058812256}
   - component: {fileID: 114809831624836090}
+  - component: {fileID: 114971433508708930}
   m_Layer: 0
   m_Name: RedWarrior 1
   m_TagString: RedWarrior
@@ -183,12 +184,11 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1458533254871476}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f9d18807de9952e47b6b3e803824b3b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 1
   isEnemy: 0
 --- !u!114 &114233460972287406
 MonoBehaviour:
@@ -251,6 +251,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57b0a8f56f08b37488d140ed5e9ac746, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114971433508708930
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1458533254871476}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c82af541ccbbe0d48aba438c59aaef4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp1: 1
+  isEnemy: 0
 --- !u!212 &212324243856025330
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -74,3 +74,11 @@ C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Te
 C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
 C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\Facebook.Unity.dll
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\Facebook.Unity.Gameroom.dll
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\FacebookNamedPipeClient.dll
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\UnityEditor.Facebook.Extensions.dll
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\1\Documents\Ригелина\Ригелина\ПрогаПрогам\Temp\bin\Debug\UnityEngine.StandardEvents.dll

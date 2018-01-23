@@ -25,6 +25,7 @@ GameObject:
   - component: {fileID: 114499404256492154}
   - component: {fileID: 114856600819984172}
   - component: {fileID: 114972193724618380}
+  - component: {fileID: 114115274886181198}
   m_Layer: 0
   m_Name: MyRedWarrior
   m_TagString: Untagged
@@ -90,6 +91,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.7, y: 0.7}
   m_EdgeRadius: 0
+--- !u!114 &114115274886181198
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1432958849794210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c82af541ccbbe0d48aba438c59aaef4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp1: 1
+  isEnemy: 0
 --- !u!114 &114499404256492154
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -121,7 +135,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1432958849794210}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f9d18807de9952e47b6b3e803824b3b5, type: 3}
   m_Name: 

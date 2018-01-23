@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HealthScript : MonoBehaviour {
 
-	public int hp = 1;
+	public  int hp = 1;
 
 	public bool isEnemy = true;
 

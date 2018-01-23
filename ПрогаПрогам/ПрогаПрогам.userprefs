@@ -1,18 +1,24 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Game.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\main menu\menu scripts\Buttons.cs">
     <Files>
       <File FileName="Assets\scripts\EnemyScript.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\HealthScript.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\MoveScript.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\RedShoot.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\RedBullet.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\ShotScript.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\WeaponScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Plugins\UnityChannel\XiaomiSupport\Editor\AppStoreSettingsEditor.cs" Line="36" Column="18" />
-      <File FileName="Assets\scripts\PurchaseManager.cs" Line="135" Column="2" />
-      <File FileName="Assets\scripts\Game.cs" Line="30" Column="3" />
-      <File FileName="Assets\Plugins\UnityChannel\XiaomiSupport\Editor\AppStoreOnboardApi.cs" Line="46" Column="4" />
+      <File FileName="Assets\scripts\Game.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Save.cs" Line="17" Column="4" />
+      <File FileName="Assets\scripts\Load.cs" Line="1" Column="1" />
+      <File FileName="Assets\main menu\menu scripts\menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\main menu\menu scripts\Player_lose.cs" Line="1" Column="1" />
+      <File FileName="Assets\main menu\menu scripts\exit.cs" Line="1" Column="1" />
+      <File FileName="Assets\main menu\menu scripts\Buttons.cs" Line="45" Column="17" />
+      <File FileName="Assets\scripts\RedBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\HealthScript1.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ShotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PurchaseManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PurchasingCheck.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">

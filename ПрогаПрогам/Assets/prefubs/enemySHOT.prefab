@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 50307669425217234}
   - component: {fileID: 114838388354173546}
   - component: {fileID: 114900009424840146}
+  - component: {fileID: 114893153883579146}
   m_Layer: 0
   m_Name: enemySHOT
   m_TagString: Untagged
@@ -102,6 +103,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: {x: 10, y: 10}
   direction: {x: -1, y: 0}
+--- !u!114 &114893153883579146
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1093496398864376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea0a29d8d1acc74595536ce0a75f998, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 0
+  isEnemyShot: 1
 --- !u!114 &114900009424840146
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -148,7 +162,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: c0fa4abf26bbf3c4aa33e328891bc5da, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
